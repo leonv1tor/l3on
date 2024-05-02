@@ -1,0 +1,70 @@
+# Historia de Usuario No. 1
+
+## CALCULADROA MRU , MRUA Y AREA
+
+Como [Prosedimeinto y buen funcionamiento ], necesito [que la calculadora opere funciones fisicas ] para que [El señor usuario pudea despejar la pregunta del ejercisio que le a sido planteado]
+
+## Descripción
+
+En cuanto se nesecite una que el usuario calcule propiedades en la materia de fisica, esta calculadora le brindara una serie de formulas para un diferente propocito.
+
+## Criterios de Aceptación
+
+Lista detallada de condiciones que debe cumplir la historia para considerarse completada.
+
+1. *Criterio de Aceptación 1*
+   - En caso del estudiante que neseciat de un buena calculador apara que pudea rendir sus opereaciones en la materia de fisica
+   - Para un univercitario con el mismo caso de nesecidad e implementar su conocimiento
+2. *Criterio de Aceptación 2*
+   - En el caso de una persona quiera calcular un area 
+   - para todo tarvajador en la aera de construccion requiera saver o tener un punto de vista diferente
+   - Para el oficinista que quiera faclitar su travajo
+   
+
+## Prioridad
+
+Nuestra principal prioridad es que el usuario puedea conprender el programa y que el programa sea adecuado para el ususario. 
+
+## Estimación
+
+Con todo el proyecto en marcha y con todas las necesidades y recursos gestionamos un tiempo determminado de una semana (7 dias), cada hora lavoral durante el dia consta de 5 horas analizando acada parte del tema. Claro que no apresuramos el paso ni nada pero eso no significa que no  se ejcute el programa.
+
+En concluison se travajo 7 dias en el cual fue de 35 horas en total. 
+
+## Notas/Tareas Adicionales
+
+Espacio para anotar cualquier tarea adicional, notas, o dependencias relacionadas con esta historia de usuario.
+
+- [Estuadiar mas las nesecidad del usuario ] Tarea adicional 1
+- [Evaluar a mas detalle el projecto ] Tarea adicional 2
+- [ Segun ala opcion que ejecute dentro del menu colocar una musica ] Tarea adicional 3
+
+## Prototipos/Anexos
+
+Incluir cualquier prototipo, wireframe, diagrama o anexos que ayuden a entender mejor la historia de usuario.
+
+- ![Prototipo 1](url_del_prototipo_1)
+- ![Wireframe 2](url_del_wireframe_2)
+
+## Discusiones
+
+Resumen de las discusiones importantes que han tenido lugar en relación con esta historia de usuario. Incluir decisiones clave y justificaciones.
+
+1. *Discusión 1*
+   - Durante el proceso del programa 
+   - Decisiones : De implentar un menu al inicio del programa 
+    justificaciones : Para que el usuario pueda comprender mejor el progrma 
+2. *Discusión 2*
+   - En implementar una musica por cada opcion para que el usuario se relaje al moneto de implentar en el programa
+   - Decisiones : Que se pondra en la lista de tareas
+    justificaciones : Para el usuario y tenga otra experiencia al mometo de implementar en nuetsra calculadora
+
+## Historial de Cambios
+
+Registro de cambios significativos en la historia de usuario, incluyendo fechas y detalles del cambio.
+
+- *[23/04/2024]* Cambio realizado por [leonel_jaldin] - inicio del projecto
+- *[25/04/2024]* Cambio realizado por [leonel_jaldin] - Cambio en el menu con un nueva opcion al menu 
+- *[30/04/2024]* Cambio realizado por [leonel_jaldin] - Modificacion al buen orden del programa
+- *[30/04/2024]* Cambio realizado por [leonel_jaldin] - Modificacion al buen orden del programa
+- *[30/04/2024]* Cambio realizado por [leonel_jaldin] - Modificacion al buen orden del programa
